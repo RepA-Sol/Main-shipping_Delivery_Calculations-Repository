@@ -1,2 +1,2 @@
-# Main-shipping_Delivery_Calculations-Repository
+# Main-shipping_delivery_calculations-repository
 Calculating shipping and delivery costs quotes to customers
